@@ -1,0 +1,9 @@
+way2automation\Paginas\Formulario.class
+way2automation\Test\RunnersFeature.class
+way2automation\Automatizacion\App.class
+way2automation\Automatizacion\AppTest.class
+way2automation\Steps\Conexion.class
+way2automation\Steps\Botones.class
+way2automation\Definitions\DefinitionsSteps.class
+way2automation\Paginas\LecturaDatos.class
+way2automation\Steps\Questions.class

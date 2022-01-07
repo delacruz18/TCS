@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Registro en la pagina Booking" skipped="0" tests="1" time="0.4" timestamp="2022-01-07T14:48:27.171-05:00[America/Bogota]"><testcase name="scenario description"><error message="C:\Users\User\Downloads\Proyecto TCS\Datos\insumo.txt (El sistema no puede encontrar la ruta especificada)" type="java.io.FileNotFoundException">C:\Users\User\Downloads\Proyecto TCS\Datos\insumo.txt (El sistema no puede encontrar la ruta especificada)</error><system-err>C:\Users\User\Downloads\Proyecto TCS\Datos\insumo.txt (El sistema no puede encontrar la ruta especificada)&#13;
+way2automation.Paginas.LecturaDatos.datos(LecturaDatos.java:53)&#13;
+way2automation.Definitions.DefinitionsSteps.leer_datos(DefinitionsSteps.java:28)&#13;
+✽.Given leer datos(Registro.feature:7)&#13;
+</system-err></testcase></testsuite>

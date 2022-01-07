@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: way2automation.Test.RunnersFeature
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 2, Skipped: 2, Time elapsed: 5.891 s <<< FAILURE! - in way2automation.Test.RunnersFeature
+Given leer datos(Scenario: scenario description)  Time elapsed: 0.016 s  <<< ERROR!
+java.io.FileNotFoundException: C:\Users\User\Downloads\Proyecto TCS\Datos\insumo.txt (El sistema no puede encontrar la ruta especificada)
+
+Scenario: scenario description  Time elapsed: 0.016 s  <<< ERROR!
+java.io.FileNotFoundException: C:\Users\User\Downloads\Proyecto TCS\Datos\insumo.txt (El sistema no puede encontrar la ruta especificada)
+
